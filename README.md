@@ -1,6 +1,6 @@
 #Javascript All-in-One For Dummies
 
-I'm learning JS, React, Vue, Svelte and Node.
+I'm learning JS, React, Vue, Svelte and Node from a book for dummies.
 
 # Gamelet
 
